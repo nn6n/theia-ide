@@ -60,7 +60,7 @@
     "@theia/ai-ollama": "1.59.0",
     "@theia/ai-openai": "1.59.0",
     "@theia/ai-scanoss": "1.59.0",
-    "@theia/ai-terminal": "1.59.0",
+    "@theia/ai-terminal": "1.62.0",
     "@theia/bulk-edit": "1.59.0",
     "@theia/callhierarchy": "1.59.0",
     "@theia/collaboration": "1.59.0",
